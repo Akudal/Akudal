@@ -1,8 +1,6 @@
 <!-- Your Name -->
 # Hello World, I'm [Antariksh Kudal] 👋
 
-![Header](https://github.com/Akudal/Akudal/blob/main/header.png)
-
 ## About Me
 
 I'm an analytical and innovative individual who likes playing around with datasets, making prediction models and also at the same time, trying to make a difference to society.
